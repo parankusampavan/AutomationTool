@@ -1,4 +1,4 @@
-package OOPSExamples;
+package oopsExamples;
 
 public class MainClass {
 
