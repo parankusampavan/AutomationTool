@@ -20,7 +20,7 @@ public class ClassA {
 		
 		System.out.println("Calling static method inside non static method");
 		method1(); // Static method can be called inside non static methods
-		b=30;
+		b=30; // static member can be called inside non static methods
 	}
 	
 	public static void method1()
@@ -30,7 +30,6 @@ public class ClassA {
 		System.out.println("This is a static method ");
 		b=20; 
 		
-		ClassA obj1 = new ClassA();
-		obj1.display();
+		
 	}
 }
