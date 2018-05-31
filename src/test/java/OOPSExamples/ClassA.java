@@ -14,6 +14,6 @@ public class ClassA {
 
 	public void display()
 	{
-		System.out.println("Value in Class A :- "+ a);
+		System.out.println("Value in ClassA :- "+ a);
 	}
 }
