@@ -1,4 +1,4 @@
-package oopsExamples;
+package OOPSExamples;
 
 public class ClassB extends ClassA
 {
